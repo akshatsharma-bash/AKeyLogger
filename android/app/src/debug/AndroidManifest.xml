@@ -1,0 +1,4 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+  <!-- Debug only: Metro dev server. Release builds have no network permission. -->
+  <uses-permission android:name="android.permission.INTERNET" />
+</manifest>
